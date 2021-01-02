@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#e67e22"
+    android:layout_height="match_parent"
+    tools:context=".GirisActivity">
+
+    <RelativeLayout
+        android:id="@+id/Bannerüst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+
+        android:background="@drawable/pp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:textColorHint="#c0392b"
+        android:hint="Kullanıcı Adı Girin"
+        android:id="@+id/kullaniciAdiEditText"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#16a085"
+        android:textColor="#c0392b"
+        android:id="@+id/kayitOlButton"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="Giriş"
+        />
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478231427241",
+    "firebase_url": "https://maymus-a1f69-default-rtdb.firebaseio.com",
+    "project_id": "maymus-a1f69",
+    "storage_bucket": "maymus-a1f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478231427241:android:1ad125753a785acc9251b8",
+        "android_client_info": {
+          "package_name": "com.example.maymus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478231427241-b57vleq9mv9jj05suceouhbd2k4ufd6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzTxQ4KE2M4tkr0_Yy5AqMFk0BN8y7Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478231427241-b57vleq9mv9jj05suceouhbd2k4ufd6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
